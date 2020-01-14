@@ -9,7 +9,7 @@ spec:
   image: {{ image }}
   port: 8080
   ingresses:
-    - "https://syfoapi.nav.no/"
+    - "https://syfotekster.nais.adeo.no"
   replicas:
     min: 2
     max: 4
