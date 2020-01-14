@@ -10,6 +10,7 @@ spec:
   port: 8080
   ingresses:
     - "https://syfotekster-q1.nais.preprod.local/"
+    - "https://app-q1.adeo.no"
   replicas:
     min: 2
     max: 4
