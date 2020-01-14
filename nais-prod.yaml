@@ -10,7 +10,7 @@ spec:
   port: 8080
   ingresses:
     - "https://syfotekster.nais.adeo.no"
-    - "https://app.adeo.no"
+    - "https://app.adeo.no/syfotekster"
   replicas:
     min: 2
     max: 4
