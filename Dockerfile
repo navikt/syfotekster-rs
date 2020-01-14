@@ -1,4 +1,4 @@
-FROM docker.pkg.github.com/navikt/tekster-rs/tekster-rs:7e63b746d61e8190afac1224262136d99a2d2119
+FROM docker.pkg.github.com/navikt/tekster-rs/tekster-rs:0015ae01c66844d994f7e0a4deb61152cc101db7
 
 COPY tekster/* tekster/
 COPY .env .env
