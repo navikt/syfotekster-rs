@@ -1,9 +1,5 @@
 name: Deploy to dev
-on:
-  push:
-    branches:
-      - '*'
-      - '!master'
+on: push
 env:
   IMAGE: docker.pkg.github.com/${{ github.repository }}/syfotekster:${{ github.sha }}
 jobs:
