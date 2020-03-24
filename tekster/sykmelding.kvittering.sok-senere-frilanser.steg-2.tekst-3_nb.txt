@@ -2,7 +2,7 @@
 
 <p>Du får melding fra oss om dette %DATOER%.</p>
 
-<p>Send gjerne <a target="_blank" href="https://www.nav.no/no/Bedrift/Skjemaer-for-arbeidsgivere/skjemaveileder/vedlegg-bedrift?key=338339">inntektsopplysningene</a> så tidlig som mulig. Da går saksbehandlingen raskere.</p>
+<p>Send gjerne <a target="_blank" href="https://www.nav.no/soknader/nb/bedrift/inntekt-og-trekk/inntektsopplysninger-sykepenger">inntektsopplysningene</a> så tidlig som mulig. Da går saksbehandlingen raskere.</p>
 
 <p><strong>Fikk du sykmeldingen på papir hos legen?</strong> <br />Legg den bort. Det du gjør på nett erstatter papiret.</p>
 
