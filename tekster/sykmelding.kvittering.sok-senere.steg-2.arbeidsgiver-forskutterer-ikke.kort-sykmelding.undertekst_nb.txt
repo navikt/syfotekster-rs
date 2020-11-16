@@ -1,1 +1,7 @@
-<p><strong>%DATO%</strong> får du en melding fra oss med lenke til søknaden om sykepenger.</p> <p>Minn gjerne arbeidsgiveren din på å sende inntektsopplysninger så tidlig som mulig. Da går saksbehandlingen fortere.</p><h3>Fikk du sykmeldingen på papir hos legen?</h3><p>Legg den bort. Det du gjør på nett erstatter papiret.</p><h3>Skal du reise ut av Norge? </h3><p><a href="https://tjenester.nav.no/sykefravaer/sykepengesoknad-utland">Les mer og søk her</a></p>
+<p><strong>%DATO%</strong> får du en melding fra oss med lenke til søknaden om sykepenger.</p> 
+<p>Minn gjerne arbeidsgiveren din på å sende inntektsopplysninger så tidlig som mulig. Da går saksbehandlingen fortere.</p>
+<p><strong>Hvorfor må du søke senere?</strong> <br />Det er vanskelig å forutsi hva som skjer mens du er sykmeldt. Noen finner ut at de klarer å jobbe mer enn sykmeldingen sier. For at vi skal kunne utbetale riktig må vi vite hvordan det gikk.</p>
+<h3>Fikk du sykmeldingen på papir hos legen?</h3>
+<p>Legg den bort. Det du gjør på nett erstatter papiret.</p>
+<h3>Skal du reise ut av Norge? </h3>
+<p><a href="https://tjenester.nav.no/sykefravaer/sykepengesoknad-utland">Les mer og søk her</a></p>
