@@ -1,2 +1,3 @@
 <p>Du kan se når du kan fylle ut søknaden om sykepenger under <a href="/sykepengesoknad">Planlagte søknader</a>.
    Du vil også få en melding fra oss når du kan søke om sykepenger.</p>
+<p><strong>Hvorfor må du søke senere?</strong> <br />Det er vanskelig å forutsi hva som skjer mens du er sykmeldt. Noen finner ut at de klarer å jobbe mer enn sykmeldingen sier. For at vi skal kunne utbetale riktig må vi vite hvordan det gikk.</p>
