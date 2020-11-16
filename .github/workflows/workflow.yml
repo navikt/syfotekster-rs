@@ -1,5 +1,7 @@
 name: Bygg, publish og deploy
 on: push
+  branches:
+    - 'master'
 env:
   APP: syfotekster
 jobs:
