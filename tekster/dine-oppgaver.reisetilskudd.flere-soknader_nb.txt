@@ -1,1 +1,1 @@
-Du har %ANTALL% nye søknader om reisetilskudd
+Du har %ANTALL% nye søknader om reisetilskudd til utfylling
