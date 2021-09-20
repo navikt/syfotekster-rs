@@ -1,0 +1,1 @@
+Du lastet opp %ANTALL% utgift på %SUM% kr
